@@ -1,4 +1,4 @@
-# CodeWithSKM  
+# CodeWithSKM.com  
 ![17320340708734889590246027484284](https://github.com/user-attachments/assets/b33c08ac-6d0c-4657-aebb-c030a11e880c)
 
 Welcome to **CodeWithSKM**, a dynamic platform to learn and enhance your programming skills. Explore free courses on multiple programming languages and tools such as Python, JavaScript, React, and more.  
